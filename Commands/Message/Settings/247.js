@@ -4,7 +4,7 @@ const { Queue } = require("distube");
 
 module.exports = {
   name: "247",
-  aliases: ["24vc"],
+  aliases: ["اثبت", "ثبت", "تعال", "تثبيت", "247", "2/7"],
   description: `toggle 24/7 system on/off`,
   userPermissions: PermissionFlagsBits.ManageGuild,
   botPermissions: PermissionFlagsBits.ManageGuild,
