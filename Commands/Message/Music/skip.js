@@ -5,7 +5,7 @@ const { skip } = require("../../../handlers/functions");
 
 module.exports = {
   name: "skip",
-  aliases: ["s", "skp"],
+  aliases: ["s", "skp", "سكب", "تخطي", "بعده"],
   description: `skip to next song in queue`,
   userPermissions: PermissionFlagsBits.Connect,
   botPermissions: PermissionFlagsBits.Connect,
