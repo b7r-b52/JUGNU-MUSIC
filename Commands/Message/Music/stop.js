@@ -4,7 +4,7 @@ const { Queue } = require("distube");
 
 module.exports = {
   name: "stop",
-  aliases: ["st", "destroy"],
+  aliases: ["اطفي", "طفي", "انقلع", "وقف", "stop"],
   description: `destroy current queue of server`,
   userPermissions: PermissionFlagsBits.Connect,
   botPermissions: PermissionFlagsBits.Connect,
